@@ -14,7 +14,7 @@ chevron-and-diamond ilme-oymo geometric pattern
 compact powerful Central Asian steppe horse, thick arched neck, sturdy short legs, long thick mane and tail
 ```
 
-**Формат кадра для рилс-серий:** `9:16 vertical aspect ratio, mobile reel framing` — осознанное отступление от кинематографического 16:9 (для полнометражных версий кадров остаётся 16:9).
+**Формат кадра:** `16:9 cinematic aspect ratio` — подтверждён пользователем для всех серий, включая рилс.
 
 ---
 
